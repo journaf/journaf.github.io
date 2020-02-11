@@ -1,7 +1,6 @@
 ---
 created: 2020-02-12T02:36:04+07:00
-title: index
-modified: 2020-02-12T03:09:27+07:00
+modified: 2020-02-12T03:33:53+07:00
 ---
 
 Heading
@@ -38,9 +37,9 @@ Numbered list:
   2. rinse
   3. repeat
 
-An [journaf](http://journaf.github.io).
+An [journah](http://journaf.github.io).
 
-![Image](https://github.com/fluidicon.png "icon")
+![Image](https://cdn.nafcodes.com/assets/images/nafcodes.png "icon")
 
 > Markdown uses email-style > characters for blockquoting.
 
