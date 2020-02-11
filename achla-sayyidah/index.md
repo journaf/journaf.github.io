@@ -1,10 +1,11 @@
 ---
 created: 2020-02-12T02:43:08+07:00
 title: index
-modified: 2020-02-12T02:46:25+07:00
+modified: 2020-02-12T02:48:41+07:00
 ---
 
-#Sajak Nama-Mu
+Sajak Nama-Mu
+=============
 
 Akhirnya lahir pula
 
