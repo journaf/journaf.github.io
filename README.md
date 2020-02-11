@@ -1,1 +1,1 @@
-# journaf.github.io
+# journaf
