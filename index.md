@@ -38,9 +38,9 @@ Numbered list:
   2. rinse
   3. repeat
 
-An [journah](http://journaf.github.io).
+An [journaf](http://journaf.github.io).
 
-![Image](https://cdn.nafcodes.com/assets/images/nafcodes.png "icon")
+![Image](https://github.com/fluidicon.png "icon")
 
 > Markdown uses email-style > characters for blockquoting.
 
